@@ -1,5 +1,5 @@
 .{
-    .name = "nanovg-zig",
+    .name = .nanovg,
 
     .version = "0.0.0",
 
